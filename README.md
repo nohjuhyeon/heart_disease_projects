@@ -6,11 +6,11 @@
 1) 심장병과 관련된 진료를 보는 사람들이 매년 계속 증가하고 있음 
 2) 심장질환에 대한 사망률 역시 점점 증가하고 있음
 -  심장병에 영향을 미치는 요인이 무엇인지 분석하고, 심장병을 예측하는 모델을 만들어 심장병을 예방할 수 있는 방안 모색
+<br>
 
 ## 데이터
 ### 수집한 데이터 
 - [heart disease 2020](https://www.kaggle.com/datasets/aqleemkhan/heart-disease-2020/data) : 2020년 심장병과 관련이 있는 다양한 요소들에 대한 설문조사
-<br>
 <br>
 
 ### 데이터 컬럼들에 대한 설명
@@ -26,6 +26,7 @@
 |PhysicalActivity|30일 동안 신체활동 여부|범주형|GenHealth|주관적 건강 상태|범주형|
 |SleepTime|평균 수면 시간|수치형|Asthma|천식|범주형|
 |KidneyDisease|신장 질환|범주형|SkinCancer|피부암|범주형|
+<br>
 
 ## 주요 기술
 |소프트웨어|구분|활용 범위|
@@ -33,6 +34,7 @@
 |python|Programming|프로그램 코드 작성|
 |Jupyter|Programming|오픈소스 웹 애플리케이션|
 |Collaboration tool|Docker|개발 환경 공유|
+<br>
 
 
 ## 진행 과정

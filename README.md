@@ -10,6 +10,9 @@
 ## 데이터
 ### 수집한 데이터 
 - [heart disease 2020](https://www.kaggle.com/datasets/aqleemkhan/heart-disease-2020/data) : 2020년 심장병과 관련이 있는 다양한 요소들에 대한 설문조사
+<br>
+<br>
+
 ### 데이터 컬럼들에 대한 설명
 
 |컬럼명|설명|데이터 타입|컬럼명|설명|데이터타입|

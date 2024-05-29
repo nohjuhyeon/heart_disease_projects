@@ -3,7 +3,9 @@
 
 ## 주제 선정
 1) 심장병과 관련된 진료를 보는 사람들이 매년 계속 증가하고 있음 
-2) 심장질환에 대한 사망률 역시 점점 증가하고 있음 
+![image](https://github.com/nohjuhyeon/heart_disease_projects/assets/151099184/424476cd-7325-4925-a11b-eb17f1b58b31)
+2) 심장질환에 대한 사망률 역시 점점 증가하고 있음
+![image](https://github.com/nohjuhyeon/heart_disease_projects/assets/151099184/14a6f5d5-2a3b-407b-a38a-fd7adf5ec5bb) 
 -  심장병에 영향을 미치는 요인이 무엇인지 분석하고, 심장병을 예측하는 모델을 만들어 심장병을 예방할 수 있는 방안 모색
 
 ## 데이터

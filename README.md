@@ -41,5 +41,5 @@
 |분류|활동|날짜|진행 상황|파일 위치|
 |--|--|--|--|--|
 |Part 1|심장병에 미치는 영향 분석|2024.02.26 ~ 2024.03.03|완료|[heart impact factor](https://github.com/nohjuhyeon/heart_disease_projects/blob/main/docs/data_analysis/heart_impact_factor.ipynb)|
-|Part 2|심장병 예측 모델 제작|2024.03.04 ~ 2024.03.10|완료|[classification : UNDER](https://github.com/nohjuhyeon/heart_disease_projects/blob/main/docs/data_analysis/classification-UNDER.ipynb)<br>[classification : SMOTE](https://github.com/nohjuhyeon/heart_disease_projects/blob/main/docs/data_analysis/classification-SMOTE.ipynb)<br>[classification : SMOTEENN](https://github.com/nohjuhyeon/heart_disease_projects/blob/main/docs/data_analysis/classification-SMOTEENN.ipynb)||
+|Part 2|심장병 예측 모델 제작|2024.03.04 ~ 2024.03.10|완료|[classification : NONE](https://github.com/nohjuhyeon/heart_disease_projects/blob/main/docs/data_analysis/classification_NONE.ipynb)<br>[classification : UNDER](https://github.com/nohjuhyeon/heart_disease_projects/blob/main/docs/data_analysis/classification_UNDER.ipynb)<br>[classification : SMOTE](https://github.com/nohjuhyeon/heart_disease_projects/blob/main/docs/data_analysis/classification_SMOTE.ipynb)<br>[classification : SMOTEENN](https://github.com/nohjuhyeon/heart_disease_projects/blob/main/docs/data_analysis/classification_SMOTEENN.ipynb)||
 

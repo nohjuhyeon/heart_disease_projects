@@ -26,8 +26,8 @@
 ## 주요 기술
 |구분|소프트웨어|활용 범위|
 |--|--|--|
-|Programming|python|프로그램 코드 작성|
-||Jupyter|오픈소스 웹 애플리케이션|
+|python|Programming|프로그램 코드 작성|
+|Jupyter|Programming|오픈소스 웹 애플리케이션|
 |Collaboration tool|Docker|개발 환경 공유|
 
 
